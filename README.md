@@ -2,7 +2,8 @@
 JS app that parses a CSV file and returns URLs that return a 3XX or 4XX status code
 
 ## Running the application
-- Download and unzip the folder. 
+- Clone repository to your computer
+`git clone <HTTP or SSH Clone link` 
 - cd to the folder in command line or terminal 
 `cd <PATH TO triplelift FOLDER>`
 - run the app by running
